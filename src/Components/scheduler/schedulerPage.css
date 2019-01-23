@@ -1,0 +1,15 @@
+.blue-dot{
+    height: 9px;
+    width: 9px;
+    margin-right: 5px;
+    background-color: rgb(76,189,233);
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dx-scheduler-dropdown-appointments .dx-button-content {
+    background-color: rgb(188,176,213);
+    color: black;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+}
