@@ -22,6 +22,4 @@ Issue link - https://www.devexpress.com/Support/Center/Question/Details/T709026/
 
 
 ## App component structure is:-
-Mainpage
-  SchedulerPage
-  CreatForm
+Mainpage with two child components - SchedulerPage & CreatForm
